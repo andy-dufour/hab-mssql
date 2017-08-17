@@ -1,0 +1,1 @@
+cmd /c C:\sources\sql_server_2016\setup.exe /q /ConfigurationFile=C:\sources\ConfigurationFile.ini /AGTSVCPASSWORD="2QtHjlIIuAOsc=ZRs2**VU;ZH2JYyU2B" /SQLSVCPASSWORD="2QtHjlIIuAOsc=ZRs2**VU;ZH2JYyU2B"
